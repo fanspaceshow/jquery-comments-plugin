@@ -1,2 +1,3 @@
 # jquery-comments-plugin
-jQuery-comments-plugin
+
+![image](img/20180807101141.png)
